@@ -3,8 +3,12 @@
     "demo": "ts-node hello.ts"
   },
   "devDependencies": {
+    "@types/lodash": "4.14.155",
     "@types/node": "13.7.7",
     "ts-node": "8.6.2",
-    "typescript": "3.8.3"
+    "typescript": "3.9.3"
+  },
+  "dependencies": {
+    "lodash": "4.17.15"
   }
 }
